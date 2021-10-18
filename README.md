@@ -17,7 +17,6 @@
   * [Non-Updated Items](#non-updated-items)
   * [License](#license)
   * [Formats](#formats)
-
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
